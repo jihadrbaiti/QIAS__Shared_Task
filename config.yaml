@@ -1,0 +1,14 @@
+models:
+  mistral: "N"
+  fanar_rag: "N"
+  allam_7b: "Y"
+
+paths:
+  input_dir: "./data/data/MCQs/Test"
+  output_dir: "./results/prediction"
+
+fanar:
+  api_key: ""
+
+groq:
+  api_key: ""
